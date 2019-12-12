@@ -1,0 +1,170 @@
+{
+  "main": {
+    "name":"Yue Sun",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"I am a first-year master student in Computer Science at Brown University. Prior to Brown, I graduated from University of Wisconsin-Madison with a B.S in Computer Science and Psychology. I am solid in Java/C data structure, algorithm, Linux system, and full-stack development. I had experience in the areas of database management, operating system, computer network, computer security, and web development in React + Node + PostgreSQL, Flask + Gunicorn + Nginx, and PHP + Apache + MySQL stack.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "yue_sun@brown.edu",
+    "phone": "608-504-0159",
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://pages.cs.wisc.edu/~yues/Yue%20Sun's%20Resume.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/fredericsun",
+        "className":"fa fa-github"
+      },
+
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yue-sun-5b9179b5/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/yuerecord/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=100004969487112",
+        "className":"fa fa-facebook"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My top tech-skills:",
+    "education":[
+      {
+        "school":"Brown University",
+        "degree":"Master of Science in Computer Science",
+        "graduated":"Sept. 2019 - Present",
+        "description":"[Software Security and Exploitation]  [Deep Learning]"
+      },
+      {
+        "school":"University of Wisconsin-Madison",
+        "degree":"Bachelor of Science in Computer Science and Psychology",
+        "graduated":"Sept. 2016 - May 2019",
+        "description":"[Operating System]  [Computer Networks] [Database Management Systems] [Parallel Computing] [Algorithms] [Computational Photography] [Artificial Intelligence] [HCI Research]"
+      }
+    ],
+    "work":[
+      {
+        "title":"Full-Stack Web Application Developer",
+        "company":"Werner Lab at UW Madison",
+        "years":"May 2018 - July 2019",
+        "description":"Built, deployed and maintained a web-based application aimed at improving caregiver inter-connectivity and caregiving experience by providing individualized resources and recommendations using PHP, Apache, and MySQL stack."
+      },
+      {
+        "title":"Research Lab Programmer",
+        "company":"Child Emotion Lab at Waisman Center",
+        "years":"Sept. 2017 - Sept. 2018",
+        "description":"Wrote MATLAB scripts to process and analyze the collected research data over 5GB and plotted compiled data in a linear or scattering manner by MATLAB to provide a better visualization for psychology researchers."
+      },
+      {
+        "title":"Research Assistant",
+        "company":"Human and Computer Interaction Lab at UW Madison",
+        "years":"May. 2017 - Aug. 2018",
+        "description":"Worked as a research assistant in the project that designed an interface for an HCI experiment that used formal verification to provide feedback on whether a designed human-robot interaction satisfied social norms."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"C",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs/Redux",
+        "level":"65%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"Flask/Gunicorn/Nginx",
+        "level":"50%"
+      },
+      {
+        "name":"PostgreSQL/MySQL",
+        "level":"75%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects_web": [
+      {
+        "title":"Fast Image Style Transfer",
+        "category":"A image style transfer web app in Flask using multi-layer Convolutional Neural Network.",
+        "image":"styletransfer.png",
+        "url":"http://styletransfer.me/"
+      },
+      {
+        "title":"HelpCare Connect",
+        "category":"A web app aimed at improving caregiver inter-connectivity and caregiving experience in php.",
+        "image":"help.png",
+        "url":"http://helpcareconnect.engr.wisc.edu/production/login.php"
+      },
+      {
+        "title":"Face Recognition",
+        "category":"A human face recognition web app in React+Node+PostgreSQL using a ClarifAI APIs.",
+        "image":"face.png",
+        "url":"https://react-facerecognition.herokuapp.com/"
+      },
+      {
+        "title":"NBA Roster",
+        "category":"A React NBA roster system",
+        "image":"NBA.png",
+        "url":"https://github.com/fredericsun/react-robotpage"
+      }
+    ],
+    "projects_back": [
+      {
+        "title":"Java TCP Protocol",
+        "category":"Built a reliable data transfer application running atop unreliable UDP sockets from scratch in Java",
+        "image":"TCP.png",
+        "url":"https://github.com/fredericsun/TCP"
+      },
+      {
+        "title":"HPC of Scalar Function",
+        "category":"Produced a generic way of using parallel computing to evaluate sensitivity of a function",
+        "image":"HPC.jpeg",
+        "url":"https://github.com/fredericsun/High-Performance-Computing-for-Sensitivity-of-a-Scalar-Function/blob/master/Project%20Report.pdf"
+      },
+      {
+        "title":"XV6 Shell",
+        "category":"Write my own shell and implement scheduling on XV6 system",
+        "image":"shell.png",
+        "url":"https://github.com/fredericsun/OS-Process-and-Scheduling"
+      },
+      {
+        "title":"Database System",
+        "category":"Created a simulated eBay Auction site that users could do customized searches and bids among virtual merchandises",
+        "image":"DB.jpeg",
+        "url":"https://github.com/fredericsun/OS-Process-and-Scheduling"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
