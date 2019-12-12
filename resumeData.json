@@ -122,10 +122,10 @@
         "url":"https://react-facerecognition.herokuapp.com/"
       },
       {
-        "title":"NBA Roster",
-        "category":"A React NBA roster system",
-        "image":"NBA.png",
-        "url":"https://github.com/fredericsun/react-robotpage"
+        "title":"Robot Roster",
+        "category":"A React/Redux robot roster system",
+        "image":"robot.png",
+        "url":"https://fredericsun.github.io/react-robotpage/"
       }
     ],
     "projects_back": [
