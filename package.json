@@ -1,6 +1,6 @@
 {
   "name": "personal_blog",
-  "homepage": "https://fredericsun.github.io/PersonalWebsite",
+  "homepage": "https://fredericsun.github.io/personal-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
