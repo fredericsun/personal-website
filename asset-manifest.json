@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.5facb584.chunk.css",
-    "main.js": "/PersonalWebsite/static/js/main.6a18031c.chunk.js",
-    "main.js.map": "/PersonalWebsite/static/js/main.6a18031c.chunk.js.map",
-    "runtime-main.js": "/PersonalWebsite/static/js/runtime-main.2a06ff28.js",
-    "runtime-main.js.map": "/PersonalWebsite/static/js/runtime-main.2a06ff28.js.map",
-    "static/js/2.1dbbada0.chunk.js": "/PersonalWebsite/static/js/2.1dbbada0.chunk.js",
-    "static/js/2.1dbbada0.chunk.js.map": "/PersonalWebsite/static/js/2.1dbbada0.chunk.js.map",
-    "index.html": "/PersonalWebsite/index.html",
-    "precache-manifest.81890217e03a315e159b3cba633c1827.js": "/PersonalWebsite/precache-manifest.81890217e03a315e159b3cba633c1827.js",
-    "service-worker.js": "/PersonalWebsite/service-worker.js",
-    "static/css/main.5facb584.chunk.css.map": "/PersonalWebsite/static/css/main.5facb584.chunk.css.map",
-    "static/js/2.1dbbada0.chunk.js.LICENSE": "/PersonalWebsite/static/js/2.1dbbada0.chunk.js.LICENSE"
+    "main.css": "/personal-website/static/css/main.5facb584.chunk.css",
+    "main.js": "/personal-website/static/js/main.79b76b1a.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.79b76b1a.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.4a019f56.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.4a019f56.js.map",
+    "static/js/2.b8dc5b0d.chunk.js": "/personal-website/static/js/2.b8dc5b0d.chunk.js",
+    "static/js/2.b8dc5b0d.chunk.js.map": "/personal-website/static/js/2.b8dc5b0d.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.e709c2036fb590029ffb9905ec98813d.js": "/personal-website/precache-manifest.e709c2036fb590029ffb9905ec98813d.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/personal-website/static/css/main.5facb584.chunk.css.map",
+    "static/js/2.b8dc5b0d.chunk.js.LICENSE": "/personal-website/static/js/2.b8dc5b0d.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2a06ff28.js",
-    "static/js/2.1dbbada0.chunk.js",
+    "static/js/runtime-main.4a019f56.js",
+    "static/js/2.b8dc5b0d.chunk.js",
     "static/css/main.5facb584.chunk.css",
-    "static/js/main.6a18031c.chunk.js"
+    "static/js/main.79b76b1a.chunk.js"
   ]
 }
